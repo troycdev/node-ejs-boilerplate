@@ -12,4 +12,6 @@ To get started, clone this repository and run `npm install` to install all requi
 
 - [EJS](https://ejs.co/) - Embedded JavaScript templating
 - [Express](https://expressjs.com/) - Web framework
+- [Mongoose](https://mongoosejs.com/) - Database modelling
+- [dotenv](https://www.npmjs.com/package/dotenv) - Environment variable loader
 - [Chalk](https://www.npmjs.com/package/chalk) - Terminal styling
